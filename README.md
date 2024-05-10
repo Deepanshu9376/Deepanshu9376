@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as SDT at Gemini Solutions<br>👯 I’m looking to collaborate on Android, Web Development Projects<br>🤝 I’m looking for help with Anyone<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about Android Development, DSA, Kotlin, CPP, MEARN Stack<br>⚡ Fun fact Footballer+Developer Best Combination ever exist
+🔭 I’m currently working as SDE Intern at Gemini Solutions<br>👯 I’m looking to collaborate on Android, Web Development Projects<br>🤝 I’m looking for help with Anyone<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about Android Development, DSA, Kotlin, CPP, MEARN Stack<br>⚡ Fun fact Footballer+Developer Best Combination ever exist
 
 
 ## 🌐 Socials:
